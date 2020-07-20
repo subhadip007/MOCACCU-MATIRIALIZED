@@ -1,0 +1,133 @@
+
+
+
+
+.fnavbar nav {
+    background-color: rgb(219, 182, 114) !important;
+    position: -webkit-sticky !important;
+
+   
+}
+.nav-wrapper ul li a{
+    color: #632 !important	;
+}
+.sidenav-trigger{
+    color: #632;
+}
+
+.brand-logo{
+
+    color: #632 !important;
+
+}
+
+.sidenav{
+    background-color: wheat !important;
+}
+
+.logo{
+    height: 40px;
+    margin-top: 12px;
+}
+
+.slider .indicators .indicator-item.active{
+
+background-color: #f5deb3 !important;
+
+}
+
+.slider .slides li img{
+    filter: blur(2px);
+}
+.slider .slides #slide1 h3,h5{
+    color: wheat;
+    margin-top: 2.5em;
+}
+    
+.slider .slides #slide2 h3{
+    color:wheat;
+    margin-top: 2.5em;
+}
+
+
+ {
+    color: black !important;
+}
+
+.descrip{
+    /* background-color: saddlebrown; */
+}
+.descrip .section h2{
+    color: #632;
+}
+
+.move{
+  text-align: justify !important;
+  
+}
+
+.card .card-image img{
+    height: 19em;
+    width: auto;
+}
+
+ .card .card-content p a:hover{
+    color: red;
+   font-size: large;
+   transform: scale(1.2);
+}
+
+.card .card-content p a{
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+.card .card-content {
+   margin-bottom: 12em;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.parallax-container  .parallax img{
+    min-height: 280px;
+   
+    height: auto;
+    width: auto;
+}
+
+.fabout .section .row a{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   color: rgb(219, 182, 114);
+  
+}
+
+.fabout .section .row h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #632;
+}
+
+.fabout .section .row p{
+    text-align: center;
+}
+
+.fservices .row .col h5{
+    color:#632;
+}
+
+.form_input{
+    border: 1px solid !important;
+    padding: 10px 14px !important;
+}
+
+.footer-one{
+    background-color:  rgb(219, 182, 114);
+    height: 100% !important;
+    
+}
